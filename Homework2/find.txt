@@ -1,0 +1,22 @@
+=== FIRST RUN (file should not exist) ===
+=== FILE MANAGER ===
+Working with file: report.txt
+
+File not found, creating...
+ Empty file created: report.txt
+-rw-r--r--  1 kseniaposkonnova  staff  0 16 фев 19:45 report.txt
+
+status:
+-rw-r--r--  1 kseniaposkonnova  staff  0 16 фев 19:45 report.txt
+
+-------------------
+
+=== SECOND RUN (file exist) ===
+=== FILE MANAGER ===
+Working with file: report.txt
+
+File exists, removing...
+File removed
+
+status:
+File doesn’t exist
