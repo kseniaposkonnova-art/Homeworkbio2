@@ -1,0 +1,5 @@
+21:15  up 33 days,  8:34, 2 users, load averages: 2,32 2,30 2,24
+USER       TTY      FROM    LOGIN@  IDLE WHAT
+kseniaposk console  -      14янв26 33days -
+kseniaposk s000     -      17:32       - w
+uid=501(kseniaposkonnova) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),98(_lpadmin),33(_appstore),100(_lpoperator),204(_developer),250(_analyticsusers),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh),400(com.apple.access_remote_ae)
